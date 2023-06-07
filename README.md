@@ -1,0 +1,1 @@
+This is an optional project in ALX concerning vagrant, git basics and it's usage.
